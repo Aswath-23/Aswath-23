@@ -4,6 +4,7 @@
 
 - 🔭 [Resume](https://pdflink.to/8c083828/)
 - 🌱 I’m currently learning Python and its frameworks exploring the AI automation
+- Personal Intrest : Finance and Business
 - 📫 Reach me: <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswath-g-bb0058264/)
 
 ### I code in
